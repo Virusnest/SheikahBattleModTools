@@ -593,5 +593,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2023-06-18 13:32:02 +1000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2023-06-18 13:31:59 +1000"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
