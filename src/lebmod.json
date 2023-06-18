@@ -1,9 +1,9 @@
 {
-    "name": "Example LEB Mod",
-    "description": "This is an example mod, your description goes here!",
-    "authors": "DBTDerpbox",
+    "name": "Sheikah Shrine",
+    "description": "A Sheikah Shrine from BOTW!",
+    "authors": "Virusnest",
     "version": "1",
-    "id": "examplemod",
+    "id": "sheikah",
     "type": "map",
     "pack": "vanilla",
     "hassmall": false,
