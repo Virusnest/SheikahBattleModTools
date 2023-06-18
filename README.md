@@ -1,7 +1,6 @@
-# Example LEM Mod
+# Sheikah Shrine
 
-Example LEM-ModTools repository, it has a example map inside it as well if you want to just test out the compiler
+A LEB Battle Map
+A Battle Map Based of the Sheikah Shrine from BOTW
 
-If you're actually making a map, you should replace the example map with yours
-
-For information on how to actually use this repository, please see the [LEM-ModTools documentation](https://github.com/Legacy-Edition-Minigames/ModTools/wiki)
+For information on LEB See this Link [Legacy Edition Minigames](https://github.com/Legacy-Edition-Minigames/)
